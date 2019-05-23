@@ -1,0 +1,28 @@
+
+/*    outline: 1px solid black;
+*/
+
+body, html {
+    margin: 0;
+    font-size: 16px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    border-style: dotted;
+    border: 2px;
+}
+
+p {
+    padding: 10px;
+    margin: 30px;
+    border
+    border-color: 
+}
+
